@@ -1,5 +1,5 @@
 # Awesome-VAD-Predictions
-This project aims to provide clean, unified, reproducible prediction results for a wide set of VAD models across popular benchmarks.
+This project aims to provide **clean, unified, reproducible** prediction results for a wide set of VAD models across popular benchmarks.
 
 It is designed for researchers, students, and engineers who need reliable frame-level scores for:
 
