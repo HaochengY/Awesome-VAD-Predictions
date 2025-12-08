@@ -12,3 +12,10 @@ Reproducibility
 Model debugging
 
 Developing new VAD methods
+
+
+📚 Supported Models
+
+STG-NF (CVPR)
+LGN-Net
+More coming…
