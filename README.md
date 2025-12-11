@@ -19,3 +19,12 @@ Developing new VAD methods
 STG-NF (CVPR)
 LGN-Net
 More coming…
+\
+
+
+#MLEP
+1. 需要降到tfv1
+2. 在MLEP/data/hyper_params/normal.ini里修改数据集路径
+
+#AnomalyRuler
+1. SHTech 是有modified的，aveneue没有
